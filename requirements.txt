@@ -1,0 +1,5 @@
+streamlit
+langchain
+langchain-groq
+python-pptx
+python-dotenv

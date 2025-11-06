@@ -1,0 +1,38 @@
+# Python cache and build files
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+
+# Environment files
+.env
+.env.*
+
+# IDE and editor settings
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Virtual environment
+venv/
+.venv/
+
+# Streamlit temporary files
+.streamlit/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs and output
+*.log
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
+
+# Assets (optional)
+assets/*.psd
+assets/*.ai
+assets/*.xcf
